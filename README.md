@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Understand how Sinatra simplifies developing web applications
+
 - Receive a request in Sinatra and send different kinds of responses
 - Create dynamic routes in Sinatra
 
